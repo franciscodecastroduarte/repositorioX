@@ -12,3 +12,9 @@ Este repositorio é apenas de teste para a seção de 28 de Abril de 2026
 
 \###Esta nova funcionalidade foi adicionada na branch feature1 (às 11:43)
 
+
+
+\###Esta nova funcionalidade foi adicionada na branch feature2 (às 12:00)
+
+
+
